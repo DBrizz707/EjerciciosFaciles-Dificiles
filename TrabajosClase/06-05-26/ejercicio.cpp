@@ -11,7 +11,7 @@ int main() {
     std::cin >> num1;
     std::cout << "Ingrese lo que quieres operar (+, -, *, /, ^, %): ";
     std::cin >> op;
-    std::cout << "Ingrese el segundo numero: ";
+    std::cout << "Ingrese el segundoo numero: ";
     std::cin >> num2;
     double resultado;
     switch (op){
